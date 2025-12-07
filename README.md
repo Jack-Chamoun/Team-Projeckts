@@ -1,2 +1,2 @@
-# projeckts
-welcome to my new repository where I publish my old and new Projeckt , my old Repository was private and only accessable via OpenVPN GUI
+# Team-projeckts
+in this repository I'm publishing the Projeckts that I worked on togerther with a team of Students for lerning and expermenting with different Framworks , Stacks , technologies.
