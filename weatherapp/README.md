@@ -55,11 +55,3 @@ trunk serve [--open]
 ```
 
 Der Parameter `--open` ist hier optional. Er öffnet den Browser, sodass er nicht manuell geöffnet werden muss. 
-
-# Role of Jack Chamoun
-
-i was responsible of connecting the frontend with the backend + creating the fetchdate methodes
-
-# Teammate role 
-
-getting the api_id from "openweathermap"+ creating the frontend
